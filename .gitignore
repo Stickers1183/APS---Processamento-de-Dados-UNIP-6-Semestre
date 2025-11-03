@@ -5,9 +5,6 @@ __pycache__/
 # Pasta de uploads temporários
 temp_uploads/
 
-# Imagens rejeitadas (geralmente não são versionadas)
-handDatabase/notWorking/
-
 # Bancos de dados gerados
 # (É uma boa prática ignorá-los e gerá-los com o script)
 measures.csv
