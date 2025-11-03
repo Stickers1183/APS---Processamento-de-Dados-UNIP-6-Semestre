@@ -1,0 +1,19 @@
+# Pastas de cache do Python
+__pycache__/
+*.pyc
+
+# Pasta de uploads temporários
+temp_uploads/
+
+# Imagens rejeitadas (geralmente não são versionadas)
+handDatabase/notWorking/
+
+# Bancos de dados gerados
+# (É uma boa prática ignorá-los e gerá-los com o script)
+measures.csv
+users.json
+
+# Pastas de ambiente virtual (se você usar)
+venv/
+.venv/
+env/
