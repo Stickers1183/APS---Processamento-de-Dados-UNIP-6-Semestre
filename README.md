@@ -82,34 +82,13 @@ O sistema utiliza a **geometria da mão** como forma de autenticação biométri
 ### 2. Clonar o Repositório
 
 ```bash
-# Substitua pela URL do seu repositório
 git clone https://github.com/Stickers1183/APS-Processamento-de-Dados-UNIP-6-Semestre.git.git
 cd [APS-Processamento-de-Dados-UNIP-6-Semestre]
 ```
 
 ---
 
-### 3. Criar Ambiente Virtual e Instalar Dependências
-
-É altamente recomendado usar um ambiente virtual (`venv`) para isolar as dependências.
-
-```bash
-# Opcional - Criar o ambiente virtual
-python -m venv venv
-
-# Ativar o ambiente virtual
-# No Windows (PowerShell/CMD):
-.env\Scriptsctivate
-# No macOS/Linux:
-source venv/bin/activate
-
-# Instalar todas as dependências
-pip install -r requirements.txt
-```
-
----
-
-### 4. Popule a Pasta `working`
+### 3. Popule a Pasta `working`
 
 O projeto precisa de imagens iniciais para construir o primeiro banco de dados.
 
@@ -118,7 +97,7 @@ Certifique-se de que a pasta `handDatabase/working/` contém as imagens de mão 
 
 ---
 
-### 5. Gere o Banco de Dados
+### 4. Gere o Banco de Dados
 
 Antes de rodar a aplicação web, gere os arquivos `measures.csv` e `users.json`:
 
@@ -128,7 +107,7 @@ python dataBase.py
 
 ---
 
-### 6. Execute a Aplicação Web
+### 5. Execute a Aplicação Web
 
 Agora que o banco de dados existe, inicie o servidor Flask:
 
@@ -144,7 +123,7 @@ O terminal deverá mostrar:
 
 ---
 
-### 7. Acesse o Sistema
+### 6. Acesse o Sistema
 
 Abra seu navegador e acesse:  
 👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
