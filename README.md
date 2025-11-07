@@ -82,8 +82,8 @@ O sistema utiliza a **geometria da mão** como forma de autenticação biométri
 ### 2. Clonar o Repositório
 
 ```bash
-git clone https://github.com/Stickers1183/APS-Processamento-de-Dados-UNIP-6-Semestre.git.git
-cd [APS-Processamento-de-Dados-UNIP-6-Semestre]
+git clone https://github.com/Stickers1183/APS-Processamento-de-Dados-UNIP-6-Semestre.git
+cd aps_final
 ```
 
 ---
@@ -190,12 +190,12 @@ Volte à tela de login e verifique que o novo botão `Usuário 'd_001'` foi adic
 
 ## 👥 Autores
 
+- Gustavo Dias de Oliveira RA: G7862G6  
+- Kaiky Souza Proença de Andrade RA: N088575  
 - Lucas Pedro Américo da Silva RA: T881HA3
-- Kaiky Souza Proença de Andrade RA: N088575
-- Gustavo Dias de Oliveira RA: G7862G6
 
 ---
 
 📘 **Disciplina:** Processamento de Imagem e Visão Computacional (PIVC)  
-🏫 **Instituição:** [UNIP - UNIVERSIDADE PAULISTA]
+🏫 **Instituição:** Universidade Paulista - UNIP  
 📅 **Ano:** 2025
