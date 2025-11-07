@@ -94,7 +94,7 @@ cd [APS-Processamento-de-Dados-UNIP-6-Semestre]
 É altamente recomendado usar um ambiente virtual (`venv`) para isolar as dependências.
 
 ```bash
-# Criar o ambiente virtual
+# Opcional - Criar o ambiente virtual
 python -m venv venv
 
 # Ativar o ambiente virtual
@@ -218,5 +218,5 @@ Volte à tela de login e verifique que o novo botão `Usuário 'd_001'` foi adic
 ---
 
 📘 **Disciplina:** Processamento de Imagem e Visão Computacional (PIVC)  
-🏫 **Instituição:** [UNIP - UNIVERSIDADE PAULISTA]  
+🏫 **Instituição:** UNIP - UNIVERSIDADE PAULISTA
 📅 **Ano:** 2025

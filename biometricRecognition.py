@@ -364,3 +364,4 @@ def identify_user(image_path, database_df, threshold):
     else:
         print(f"Nenhum match encontrado. Distância mínima: {min_dist} (Threshold: {threshold})")
         return None, min_dist # Retorna (None, dist) para sinalizar NÃO ENCONTRADO
+    
